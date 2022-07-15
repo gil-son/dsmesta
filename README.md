@@ -315,6 +315,10 @@ $ brew install git
 	</li>
 </ul>
 
+## Responsive
+
+<div align="center"><a href="https://imgbox.com/klabFHPg" target="_blank"><img src="https://thumbs2.imgbox.com/73/be/klabFHPg_t.png" alt="image host"/></a></div>
+
 
 ## See the project
 
