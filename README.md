@@ -319,8 +319,8 @@ $ brew install git
 ## See the project
 
 <ul>
-  <li><a href="[gilson-dsmeta.netlify.app](https://gilson-dsmeta.netlify.app)" target="_blank">Netlify</a></li>
-  <li><a href="[gilson-dsmeta.vercel.app](https://gilson-dsmeta.vercel.app)" target="_blank">Vercel</a></li>
+  <li><a href="https://gilson-dsmeta.netlify.app" target="_blank">Netlify</a></li>
+  <li><a href="https://gilson-dsmeta.vercel.app" target="_blank">Vercel</a></li>
 </ul>
 
 ## Source
