@@ -1,5 +1,5 @@
 import axios from "axios";
-//import { toast } from "react-toastify";
+import { toast } from "react-toastify";
 import { BASE_URL } from "../../utils/request";
 import icon from "../../assets/img/notification-icon.svg";
 import iconsend from "../../assets/img/icon-send.png";
@@ -28,7 +28,8 @@ function NotificationButton({saleId} : Props) {
                 
             // });
 
-            setTimeout(() => {  setTheIcon(icon); setclassEffect("dsmeta-red-btn")}, 5000);
+            toast.success("Sent SMS with success");
+            setTimeout(() => { setTheIcon(icon); setclassEffect("dsmeta-red-btn")}, 5000);
     }
 
     return (
