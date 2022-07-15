@@ -37,7 +37,7 @@ public class SmsService {
 		
 		Sale sale =  saleRepository.findById(saleId).get();
 		
-		String date = sale.getDate().getMonth() + "/" + sale.getDate().getYear();
+		String date = sale.getDate().getMonth() + "/" + sale.getDate().getDayOfYear();
 		
 		String msg = "The seller: " + sale.getSellerName()
 					+" was featured on: "+ date
