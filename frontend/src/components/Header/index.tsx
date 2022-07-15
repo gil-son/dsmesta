@@ -9,7 +9,8 @@ function Header() {
                 <h1>DSMeta</h1>
                 <p>
                     Developed by
-                    <a href="https://gil-son.github.io">Gilson Vieira de Souza</a>
+                    <a href="https://gil-son.github.io" target="_blank"> <u>Gilson Vieira de Souza</u></a>&nbsp;
+                     in partnership with <a href="https://devsuperior.com.br/" target="_blank"> <u>DevSuperior</u></a>
                 </p>
             </div>
         </header>
