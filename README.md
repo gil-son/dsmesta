@@ -319,13 +319,13 @@ $ brew install git
 ## See the project
 
 <ul>
-  <li><a href="gilson-dsmeta.netlify.app" target="_blank">Netlify</a></li>
-  <li><a href="gilson-dsmeta.vercel.app" target="_blank">Vercel</a></li>
+  <li><a href="gilson-dsmeta.netlify.app">Netlify</a></li>
+  <li><a href="gilson-dsmeta.vercel.app">Vercel</a></li>
 </ul>
 
 ## Source
 
 <ul>
-  <li><a href="https://devsuperior.com.br/" target="_blank">DevSuperior</a></li>
-  <li><a href="https://github.com/devsuperior/sds-dsmeta" target="_blank">DevSuperior - Spring React week - sdsmesta</a></li>
+  <li><a href="https://devsuperior.com.br/">DevSuperior</a></li>
+  <li><a href="https://github.com/devsuperior/sds-dsmeta">DevSuperior - Spring React week - sdsmesta</a></li>
 </ul>
