@@ -265,3 +265,53 @@ $ brew install git
 ```
 
 </details>
+
+
+
+## Technical knowledge
+
+
+<ul>
+        <li><a href="https://youtu.be/xC_yKw3MYX4">OO and SQL<a/></li>
+        <li><a href="https://youtu.be/os6hdZbCnpM">Jpa Repository</a></li>
+        <li><a href="https://youtu.be/OX5MmJrFTdw">Domain Model<a/></li>
+        <li><a href="https://youtu.be/IOJoJGDowEY">React JS<a/></li>
+        <li><a href="https://youtu.be/KLG-jC1fh28">Git and Github<a/></li>
+</ul>
+
+## Tools list
+
+<ul>
+	<li>Backend - Optional IDEs to Java 
+		<ul>
+			<li>Spring Tool Suite (STS)</li>
+			<li>Eclipse</li>
+			<li>intellij</li>
+		</ul>	
+	</li>
+	<li>Frontend - Optional IDEs to React JS 
+		<ul>
+			<li>VS Studio Code</li>
+			<li>Atom</li>
+		</ul>	
+	</li>
+	<li>RESTful services
+		<ul>
+			<li>Postman</li>
+			<li>Insomnia</li>
+		</ul>
+	</li>
+	<li>Deployment hosting
+		<ul>
+			<li>Heroku</li>
+		</ul>
+	</li>
+</ul>
+
+
+## Source
+
+<ul>
+  <li><a href="https://devsuperior.com.br/">DevSuperior</a></li>
+  <li><a href="https://github.com/devsuperior/sds-dsmeta">DevSuperior - Spring React week - sdsmesta</a></li>
+</ul>
