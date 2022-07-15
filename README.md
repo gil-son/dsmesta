@@ -8,6 +8,14 @@ help students and programming professionals to enter or re-enter their careers.<
 
 <p>That event improve abilities required to an Full Stack Developer build a system with a quality architecture!</p>
 
+
+## About functionality
+
+<p>
+dsmeta is a project that stores salespeople with their sales data, visits, agreement, etc. It allows filtering by periods and allows you to send notifications to the registered cell phone with all the information of the selected seller.
+</p>
+
+
 ## Installs
 
 
