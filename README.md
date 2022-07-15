@@ -1,7 +1,7 @@
 # dsmeta
 Spring React Project of the Week
 
-## About
+## About event
 
 <p> SDS9 is an event promoted by <a href="https://devsuperior.com.br/"> DevSuperior <a/> which aims to
 help students and programming professionals to enter or re-enter their careers.</p>
@@ -301,17 +301,31 @@ $ brew install git
 			<li>Insomnia</li>
 		</ul>
 	</li>
-	<li>Deployment hosting
+	<li>Backend - Optional hosting
 		<ul>
 			<li>Heroku</li>
-		</ul>
+		</ul>	
+	</li>
+	<li>Frontend - Optional hosting
+		<ul>
+			<li>Netlify</li>
+			<li>Vercel</li>
+		</ul>	
+	</li>
 	</li>
 </ul>
 
 
+## See the project
+
+<ul>
+  <li><a href="gilson-dsmeta.netlify.app" target="_blank">Netlify</a></li>
+  <li><a href="gilson-dsmeta.vercel.app" target="_blank>Vercel</a></li>
+</ul>
+
 ## Source
 
 <ul>
-  <li><a href="https://devsuperior.com.br/">DevSuperior</a></li>
-  <li><a href="https://github.com/devsuperior/sds-dsmeta">DevSuperior - Spring React week - sdsmesta</a></li>
+  <li><a href="https://devsuperior.com.br/" target="_blank>DevSuperior</a></li>
+  <li><a href="https://github.com/devsuperior/sds-dsmeta" target="_blank>DevSuperior - Spring React week - sdsmesta</a></li>
 </ul>
