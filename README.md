@@ -339,5 +339,5 @@ $ brew install git
 
 <ul>
   <li><a href="https://devsuperior.com.br/" target="_blank">DevSuperior</a></li>
-  <li><a href="https://github.com/devsuperior/sds-dsmeta" target="_blank">DevSuperior - Spring React week - sdsmesta</a></li>
+  <li><a href="https://github.com/devsuperior/sds-dsmeta" target="_blank">DevSuperior - Spring React week - sdsmeta</a></li>
 </ul>
