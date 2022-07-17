@@ -331,8 +331,13 @@ $ brew install git
 ## See the project
 
 <ul>
-  <li><a href="https://gilson-dsmeta.netlify.app" target="_blank">Netlify</a></li>
   <li><a href="https://gilson-dsmeta.vercel.app" target="_blank">Vercel</a></li>
+</ul>
+
+
+## See the project with H2
+<ul>
+  <li><a href="https://github.com/gil-son/dsmeta">H2 Version</a></li>
 </ul>
 
 ## Source
