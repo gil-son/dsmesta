@@ -287,6 +287,33 @@ $ brew install git
         <li><a href="https://youtu.be/KLG-jC1fh28">Git and Github<a/></li>
 </ul>
 
+
+## Dependencies
+
+<ul>
+  <li>
+  	Backend - Springboot - pom.xml:
+	<ul>
+	  <li><a href="https://spring.io/projects/spring-ws">Spring Web (starter and dependencies)<a/> </li>
+	  <li><a href="https://spring.io/projects/spring-data-jpa">JPA<a/></li> 
+	  <li><a href="https://mvnrepository.com/search?q=H2">H2 Database<a/></li>
+	  <li><a href="https://mvnrepository.com/artifact/org.springframework.security/spring-security-config">Security config<a/></li>
+	</ul>
+  </li>
+  <li>
+  	Frontend - React + Vite template - package.json:
+	<ul>
+	  <li><a href="https://www.npmjs.com/package/react-datepicker">datepicker<a/></li>
+	  <li><a href="https://www.npmjs.com/search?q=axios">axios<a/></li> 
+	  <li><a href="https://www.codecademy.com/learn/react-101/modules/react-hooks-u">hooks<a/></li>
+	  <li><a href="https://www.npmjs.com/search?q=toastify">toastify<a/></li>
+	</ul>
+  </li>
+</ul>
+
+
+
+
 ## Tools list
 
 <ul>
