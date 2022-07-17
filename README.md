@@ -332,7 +332,12 @@ $ brew install git
 
 <ul>
   <li><a href="https://gilson-dsmeta.netlify.app" target="_blank">Netlify</a></li>
-  <li><a href="https://gilson-dsmeta.vercel.app" target="_blank">Vercel</a></li>
+</ul>
+
+## See the project with postgres
+
+<ul>
+  <li><a href="https://github.com/gil-son/dsmeta/tree/postgres">Postgres Version</a></li>
 </ul>
 
 ## Source
